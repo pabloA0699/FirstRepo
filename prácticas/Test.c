@@ -1,9 +1,9 @@
-include "stidio.h"
+include "stdio.h"
 
 
 void main (void)
 {
 	  printf("I am PA");
-	  printf("I am PO");
 	  printf("hola mundo")
+	  printf("I am PAO");
 }
